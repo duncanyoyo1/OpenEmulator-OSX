@@ -1,8 +1,14 @@
-# OpenEmulator
+![](.github/readme.png)
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/openemulator/openemulator/master/COPYING"><img alt="GitHub" src="https://img.shields.io/github/license/openemulator/openemulator.svg?label=License&style=for-the-badge"> </a> <a href="https://travis-ci.org/openemulator/openemulator"><img alt="Travis (.org)" src="https://img.shields.io/travis/openemulator/openemulator.svg?label=CI&logo=travis&logoColor=white&style=for-the-badge"></a> <a href="https://gitter.im/openemulator/community"><img alt="Gitter" src="https://img.shields.io/gitter/room/openemulator/community.svg?color=blue&logo=gitter&style=for-the-badge"></a>
+</p>
+
+---
 
 This is OpenEmulator, a cross-platform emulator of many legacy computer systems.
 
-OpenEmulator is currently only fully supported on Mac OS X, with support for Linux and Windows operating systems being developed. For compilation and installation instructions, refer to [INSTALL.md](https://github.com/OpenEmulatorProject/OpenEmulator/blob/master/INSTALL.md).
+OpenEmulator is currently only fully supported on Mac OS X, with support for Linux and Windows operating systems being developed. For compilation and installation instructions, refer to [INSTALL.md](https://github.com/openemulator/openemulator/blob/master/INSTALL.md).
 
 ## About
 OpenEmulator aims to be an accurate, portable emulator of legacy computer systems. By using a software components framework, it is easy to expand a software emulation with additional software devices, just as a real system could be expanded with real devices.
@@ -45,12 +51,12 @@ OpenEmulator emulates the following systems:
 	
 ## Feedback
 
-If you find a bug, or would like a specif feature, please report it at:
+If you find a bug, or would like a specific feature, please report it at:
 
-[https://github.com/OpenEmulatorProject/OpenEmulator/issues](https://github.com/OpenEmulatorProject/OpenEmulator/issues)
+[https://github.com/openemulator/openemulator/issues](https://github.com/openemulator/openemulator/issues)
 
 If you like to contribute to the project, fork the repository on Github and send us your pull requests!
 
 ## License
-OpenEmulator is released under the [GNU General Public License v3](https://github.com/OpenEmulatorProject/OpenEmulator/blob/master/COPYING).
+OpenEmulator is released under the [GNU General Public License v3](https://github.com/openemulator/openemulator/blob/master/COPYING).
 	
